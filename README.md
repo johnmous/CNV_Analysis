@@ -1,4 +1,4 @@
-CNV analysis scripts
+#CNV analysis scripts
 
 Calculate the per genomic position depth of coverage with coverageAnalysis.sh. Afterewards use analyseCoverage.R to plot the pair wise Fold Change.
 
